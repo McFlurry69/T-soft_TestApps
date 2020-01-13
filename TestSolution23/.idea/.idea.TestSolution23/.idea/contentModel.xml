@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Evgeniy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Evgeniy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TestSolution23.-1489811873.00" t="ExcludeRecursive" />
+    <e p="D:\Pr\WorkSol\TestSolution23" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestSolution23" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bootstrapper.cs" t="Include" />
+        <e p="Helper.cs" t="Include" />
+        <e p="img" t="Include">
+          <e p="folder.jpg" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AproximationClass.cs" t="Include" />
+          <e p="ChartClass.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+              <e p="TestSolution23.AssemblyInfo.cs" t="Include" />
+              <e p="Views" t="Include">
+                <e p="FirstChartView.g.cs" t="Include" />
+                <e p="SecondChartView.g.cs" t="Include" />
+                <e p="ShellView.g.cs" t="Include" />
+                <e p="ThirdChartView.g.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TestSolution23.csproj" t="IncludeRecursive" />
+        <e p="ViewModels" t="Include">
+          <e p="FirstChartViewModel.cs" t="Include" />
+          <e p="SecondChartViewModel.cs" t="Include" />
+          <e p="ShellViewModel.cs" t="Include" />
+          <e p="ThirdChartViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="FirstChartView.xaml" t="Include" />
+          <e p="FirstChartView.xaml.cs" t="Include" />
+          <e p="SecondChartView.xaml" t="Include" />
+          <e p="SecondChartView.xaml.cs" t="Include" />
+          <e p="ShellView.xaml" t="Include" />
+          <e p="ShellView.xaml.cs" t="Include" />
+          <e p="ThirdChartView.xaml" t="Include" />
+          <e p="ThirdChartView.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="TestSolution23.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

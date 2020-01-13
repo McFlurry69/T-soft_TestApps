@@ -1,0 +1,48 @@
+﻿<Window x:Class="TestSolution23.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:TestSolution23.Views"
+        mc:Ignorable="d"
+        Title="ShellView" Height="600" Width="800" MinWidth="800"
+        FontFamily="Colibri">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="370"/>
+        </Grid.RowDefinitions>
+
+
+        <Border BorderThickness="0,0,0,1" BorderBrush="Black" Grid.Column="0" Grid.ColumnSpan="1234" Grid.Row="1">
+            <TextBlock FontSize="20" TextAlignment="Center">Построение графиков</TextBlock>
+        </Border>
+        <TextBlock Margin="0 20 0 0" FontSize="20" Grid.Column="1" Grid.Row="2" TextAlignment="Center">Выбор csv файла:</TextBlock>
+        <Border Margin="0 20 0 0" BorderThickness="1" BorderBrush="Black" Grid.Column="2" Grid.ColumnSpan="234" Grid.Row="2" Width="440" Height="20" HorizontalAlignment="Left">
+            <TextBlock Width="440" Height="20" HorizontalAlignment="Left" Text="{Binding Path=FilePath}" />
+        </Border>
+        <Button x:Name="BtnOpen" Margin="0 20 0 0" Grid.Column="4" Grid.Row="2" Width="30" Height="30" HorizontalAlignment="Left">
+            <StackPanel>
+                <Image Source="../img/folder.jpg" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="LoadChartOne" Grid.Column="1" Margin="0 20 0 0" Grid.Row="3" Width="200" Height="30" HorizontalAlignment="Center">Построить гистограмму</Button>
+        <Button x:Name="LoadChartTwo" Grid.Column="2" Margin="0 20 20 0" Grid.Row="3" Width="200" Height="30" HorizontalAlignment="Center">Построить диаграмму</Button>
+        <Button x:Name="LoadChartThree" Grid.Column="3" Margin="0 20 0 0" Grid.Row="3" Width="200" Height="30" HorizontalAlignment="Center">Построить график</Button>
+        <ContentControl Margin="0 20 0 0" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="4" x:Name="ActiveItem"/>
+    </Grid>
+</Window>
+    

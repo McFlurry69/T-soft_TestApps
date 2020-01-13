@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Evgeniy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Evgeniy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TestSolution1.-144241869.00" t="ExcludeRecursive" />
+    <e p="D:\Pr\WorkSol\TestSolution1" t="IncludeFlat">
+      <e p="ConnectionLibrary" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConnectionLibrary.csproj" t="IncludeRecursive" />
+        <e p="DataAccess.cs" t="Include" />
+        <e p="Helper.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="FullInfo.cs" t="Include" />
+          <e p="Param.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ConnectionLibrary.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestSolution1" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bootstrapper.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+              <e p="TestSolution1.AssemblyInfo.cs" t="Include" />
+              <e p="Views" t="Include">
+                <e p="ShellView.g.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TestSolution1.csproj" t="IncludeRecursive" />
+        <e p="ViewModels" t="Include">
+          <e p="ShellViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="ShellView.xaml" t="Include" />
+          <e p="ShellView.xaml.cs" t="Include" />
+        </e>
+        <e p="Xml" t="Include">
+          <e p="ParamValue.cs" t="Include" />
+          <e p="XmlFile.cs" t="Include" />
+          <e p="XmlSender.cs" t="Include" />
+        </e>
+      </e>
+      <e p="TestSolution1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

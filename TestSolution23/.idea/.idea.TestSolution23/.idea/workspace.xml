@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63e3c9f6-1a71-45dc-823f-34843bbccfe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestSolution23" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Views/ShellView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Views/ShellView.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/ViewModels/ShellViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/ViewModels/FirstChartViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/ViewModels/ThirdChartViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/ViewModels/SecondChartViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Views/FirstChartView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Views/ThirdChartView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05DCA783-2AD6-440A-904D-DF3F73B6DA0B/51/79b1e530/ChartPoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Views/SecondChartView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Helper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Models/ChartClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Bootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05DCA783-2AD6-440A-904D-DF3F73B6DA0B/e1/0692ebaa/ChartValues`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestSolution23/Models/AproximationClass.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestSolution23/App.xaml" />
+        <option value="$PROJECT_DIR$/TestSolution23/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/Views/ShellView.xaml.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/Views/FirstChartView.xaml" />
+        <option value="$PROJECT_DIR$/TestSolution23/Views/SecondChartView.xaml" />
+        <option value="$PROJECT_DIR$/TestSolution23/Views/ShellView.xaml" />
+        <option value="$PROJECT_DIR$/TestSolution23/AproximationClass.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/Views/ThirdChartView.xaml" />
+        <option value="$PROJECT_DIR$/TestSolution23/Helper.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/ViewModels/FirstChartViewModel.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/ViewModels/ShellViewModel.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/ViewModels/SecondChartViewModel.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/ViewModels/ThirdChartViewModel.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/Models/AproximationClass.cs" />
+        <option value="$PROJECT_DIR$/TestSolution23/Models/ChartClass.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WG4oyDmXVuYlpiBMKKhbbfxZHd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="C#" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="XamlPreviewOptionsPage" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TestSolution23/bin/Debug/netcoreapp3.0/TestSolution23.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSolution23/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestSolution23/TestSolution23.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63e3c9f6-1a71-45dc-823f-34843bbccfe0" name="Default Changelist" comment="" />
+      <created>1578762775190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578762775190</updated>
+      <workItem from="1578762776288" duration="3728000" />
+      <workItem from="1578768158833" duration="639000" />
+      <workItem from="1578768816777" duration="594000" />
+      <workItem from="1578773615908" duration="1228000" />
+      <workItem from="1578775922007" duration="1321000" />
+      <workItem from="1578826069766" duration="197000" />
+      <workItem from="1578826281222" duration="98000" />
+      <workItem from="1578826429784" duration="468000" />
+      <workItem from="1578826964276" duration="863000" />
+      <workItem from="1578828375663" duration="112000" />
+      <workItem from="1578828876890" duration="898000" />
+      <workItem from="1578860571743" duration="2992000" />
+      <workItem from="1578928715825" duration="19027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Notifications" timestamp="1578826849792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1578826849792" />
+    <state x="552" y="184" key="#Updates" timestamp="1578826829747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Updates/0.0.1920.1050@0.0.1920.1050" timestamp="1578826829747" />
+    <state x="552" y="184" key="#XAML" timestamp="1578826590515">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#XAML/0.0.1920.1050@0.0.1920.1050" timestamp="1578826590515" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1578946146805">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="413" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1578946146805" />
+    <state width="938" height="352" key="GridCell.Tab.0.bottom" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.0.center" timestamp="1578949923087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923087" />
+    <state width="938" height="352" key="GridCell.Tab.0.left" timestamp="1578949923087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923087" />
+    <state width="938" height="352" key="GridCell.Tab.0.right" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.1.bottom" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.1.center" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.1.left" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.1.right" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.2.bottom" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.2.center" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.2.left" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.2.right" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.3.bottom" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.3.center" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.3.left" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.3.right" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.4.bottom" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.4.center" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.4.left" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state width="938" height="352" key="GridCell.Tab.4.right" timestamp="1578949923088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578949923088" />
+    <state x="552" y="258" key="Rider.ProjectTemplateDialog.Size" timestamp="1578826129726">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1050@0.0.1920.1050" timestamp="1578826129726" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1578829629769">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578829629769" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1578946257039">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1578946257039" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578937876328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578937876328" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
